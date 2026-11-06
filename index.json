@@ -1,0 +1,11 @@
+{
+  "org": "sympy",
+  "repo": "kamke-test-suite",
+  "versions": [
+    {
+      "commit": "4a23fb7db23de5027ed8dae4e79efa56c6e337bb",
+      "tag": "",
+      "parsed_at": "2026-11-06T09:07:34.272730+00:00"
+    }
+  ]
+}
