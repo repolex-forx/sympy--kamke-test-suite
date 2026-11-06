@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sympy/kamke-test-suite/commit/4a23fb7db23de5027ed8dae4e79efa56c6e337bb",
       "git:hexsha": "4a23fb7db23de5027ed8dae4e79efa56c6e337bb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
